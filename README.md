@@ -1,1 +1,1 @@
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+git clone https://github.com/your-forked-repo.git
